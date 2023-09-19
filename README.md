@@ -18,3 +18,12 @@ Ex:
 * `python backup_template.py sb24s >samples/sb24c.svg`:
 [24 word mnemonic, compact SeedQR](samples/sb24c.svg)
 
+---
+
+## bip39en_hexwords.py
+
+Ex:
+
+* `python bip39en_hexwords.py >samples/bip39en_hexwords.txt`:
+[bip39 english hex-indexed wordslist](samples/bip39en_hexwords.txt)
+
