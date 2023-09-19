@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="100%" height="100%" overflow="scroll" viewBox="0 0 540 382">
+  <defs>
+    <filter id="blur"><feGaussianBlur in="SourceGraphic" stdDeviation="1" /></filter>
+    <rect id="P7" width="70" height="70" stroke-width="0" fill="#000" />
+    <rect id="P5" width="50" height="50" stroke-width="0" fill="#fff" />
+    <rect id="P3" width="30" height="30" stroke-width="0" fill="#000" />
+    <rect id="A5" width="50" height="50" stroke-width="0" fill="#000" />
+    <rect id="A3" width="30" height="30" stroke-width="0" fill="#fff" />
+    <rect id="A1" width="10" height="10" stroke-width="0" fill="#000" />
+
+    <!-- User has a choice: dots for a punch? or grid for a marker? or both? -->
+    <g id="D">
+    <rect width="10" height="10" stroke-width="0.4" stroke="#888" fill="#fff" />
+    <!--<circle cx="5" cy="5" r="1" fill="#ccc" />-->
+    </g>
+
+    <!-- User has a choice: timing as circles? or as blocks? or no timing markers? -->
+    <!--<rect id="T" width="10" height="10" stroke-width="0" fill="#000" />-->
+    <!--<circle id="T" cx="5" cy="5" r="4" fill="#000" filter="url(#blur)" />-->
+
+  </defs>
+
+<g id="Mnemonic_12">
+<rect x="0" y="0" width="270" height="382" fill="#fff" stroke="#000" stroke-width="0.5" rx="10" />
+
+<g id="Words_12">
+<text x="29" y="86" font-size="15.0" fill="#000">1.</text>
+<line x1="49.4" y1="86" x2="250" y2="86" stroke-width="0.9" stroke="#333" />
+<text x="29" y="102" font-size="15.0" fill="#000">2.</text>
+<line x1="49.4" y1="102.2" x2="250" y2="102.2" stroke-width="0.9" stroke="#333" />
+<text x="29" y="118" font-size="15.0" fill="#000">3.</text>
+<line x1="49.4" y1="118.3" x2="250" y2="118.3" stroke-width="0.9" stroke="#333" />
+<text x="29" y="134" font-size="15.0" fill="#000">4.</text>
+<line x1="49.4" y1="134.5" x2="250" y2="134.5" stroke-width="0.9" stroke="#333" />
+<text x="29" y="167" font-size="15.0" fill="#000">5.</text>
+<line x1="49.4" y1="166.8" x2="250" y2="166.8" stroke-width="0.9" stroke="#333" />
+<text x="29" y="183" font-size="15.0" fill="#000">6.</text>
+<line x1="49.4" y1="182.9" x2="250" y2="182.9" stroke-width="0.9" stroke="#333" />
+<text x="29" y="199" font-size="15.0" fill="#000">7.</text>
+<line x1="49.4" y1="199.1" x2="250" y2="199.1" stroke-width="0.9" stroke="#333" />
+<text x="29" y="215" font-size="15.0" fill="#000">8.</text>
+<line x1="49.4" y1="215.2" x2="250" y2="215.2" stroke-width="0.9" stroke="#333" />
+<text x="29" y="248" font-size="15.0" fill="#000">9.</text>
+<line x1="49.4" y1="247.5" x2="250" y2="247.5" stroke-width="0.9" stroke="#333" />
+<text x="20" y="264" font-size="15.0" fill="#000">10.</text>
+<line x1="49.4" y1="263.7" x2="250" y2="263.7" stroke-width="0.9" stroke="#333" />
+<text x="20" y="280" font-size="15.0" fill="#000">11.</text>
+<line x1="49.4" y1="279.8" x2="250" y2="279.8" stroke-width="0.9" stroke="#333" />
+<text x="20" y="296" font-size="15.0" fill="#000">12.</text>
+<line x1="49.4" y1="296.0" x2="250" y2="296.0" stroke-width="0.9" stroke="#333" />
+</g><!-- end of Group id=Words_12 -->
+
+
+<g id="MnNotes_12">
+<rect x="54" y="28" width="162" height="30" fill="#fff" stroke="#000" stroke-width="3.0" rx="15.0" />
+<text x="60" y="48" font-size="15.0" fill="#333">⚿</text>
+<rect x="20" y="324" width="230" height="36" fill="#fff" stroke="#000" stroke-width="3.0" rx="10" />
+<text x="26" y="344" font-size="15.0" fill="#333">✽</text>
+<text x="54" y="308" font-size="10" fill="#000">Never enter these words into a device</text>
+<text x="76" y="319" font-size="10" fill="#000">that connects to the internet.</text>
+</g><!-- end of Group id=MnNotes_12 -->
+
+</g><!-- end of Group id=Mnemonic_12 -->
+
+<g id="QRCode_21">
+<rect x="270" y="0" width="270" height="382" fill="#fff" stroke="#000" stroke-width="0.5" rx="10" />
+
+<g id="Quiet_21">
+<use href="#D" x="310" y="156" />
+<use href="#D" x="380" y="86" />
+<use href="#D" x="310" y="216" />
+<use href="#D" x="440" y="86" />
+<use href="#D" x="510" y="156" />
+<use href="#D" x="380" y="286" />
+<use href="#D" x="320" y="156" />
+<use href="#D" x="380" y="96" />
+<use href="#D" x="320" y="216" />
+<use href="#D" x="440" y="96" />
+<use href="#D" x="500" y="156" />
+<use href="#D" x="380" y="276" />
+<use href="#D" x="330" y="156" />
+<use href="#D" x="380" y="106" />
+<use href="#D" x="330" y="216" />
+<use href="#D" x="440" y="106" />
+<use href="#D" x="490" y="156" />
+<use href="#D" x="380" y="266" />
+<use href="#D" x="340" y="156" />
+<use href="#D" x="380" y="116" />
+<use href="#D" x="340" y="216" />
+<use href="#D" x="440" y="116" />
+<use href="#D" x="480" y="156" />
+<use href="#D" x="380" y="256" />
+<use href="#D" x="350" y="156" />
+<use href="#D" x="380" y="126" />
+<use href="#D" x="350" y="216" />
+<use href="#D" x="440" y="126" />
+<use href="#D" x="470" y="156" />
+<use href="#D" x="380" y="246" />
+<use href="#D" x="360" y="156" />
+<use href="#D" x="380" y="136" />
+<use href="#D" x="360" y="216" />
+<use href="#D" x="440" y="136" />
+<use href="#D" x="460" y="156" />
+<use href="#D" x="380" y="236" />
+<use href="#D" x="370" y="156" />
+<use href="#D" x="380" y="146" />
+<use href="#D" x="370" y="216" />
+<use href="#D" x="440" y="146" />
+<use href="#D" x="450" y="156" />
+<use href="#D" x="380" y="226" />
+<use href="#D" x="380" y="156" />
+<use href="#D" x="440" y="156" />
+<use href="#D" x="380" y="216" />
+<use href="#D" x="400" y="146" />
+<use href="#D" x="370" y="176" />
+<use href="#D" x="420" y="146" />
+<use href="#D" x="370" y="196" />
+</g><!-- end of Group id=Quiet_21 -->
+
+
+<g id="Timing_21">
+<use href="#T" x="390" y="146" />
+<use href="#T" x="370" y="166" />
+<use href="#T" x="410" y="146" />
+<use href="#T" x="370" y="186" />
+<use href="#T" x="430" y="146" />
+<use href="#T" x="370" y="206" />
+</g><!-- end of Group id=Timing_21 -->
+
+
+<g id="Headers_21">
+<text x="338" y="76" font-size="15.0" fill="#000">1</text>
+<text x="290" y="128" font-size="15.0" fill="#000">A</text>
+<text x="408" y="76" font-size="15.0" fill="#000">2</text>
+<text x="290" y="198" font-size="15.0" fill="#000">B</text>
+<text x="478" y="76" font-size="15.0" fill="#000">3</text>
+<text x="290" y="268" font-size="15.0" fill="#000">C</text>
+</g><!-- end of Group id=Headers_21 -->
+
+
+<g id="Data_21">
+<use href="#D" x="390" y="86" />
+<use href="#D" x="310" y="166" />
+<use href="#D" x="390" y="96" />
+<use href="#D" x="320" y="166" />
+<use href="#D" x="390" y="106" />
+<use href="#D" x="330" y="166" />
+<use href="#D" x="390" y="116" />
+<use href="#D" x="340" y="166" />
+<use href="#D" x="390" y="126" />
+<use href="#D" x="350" y="166" />
+<use href="#D" x="390" y="136" />
+<use href="#D" x="360" y="166" />
+<use href="#D" x="400" y="86" />
+<use href="#D" x="310" y="176" />
+<use href="#D" x="400" y="96" />
+<use href="#D" x="320" y="176" />
+<use href="#D" x="400" y="106" />
+<use href="#D" x="330" y="176" />
+<use href="#D" x="400" y="116" />
+<use href="#D" x="340" y="176" />
+<use href="#D" x="400" y="126" />
+<use href="#D" x="350" y="176" />
+<use href="#D" x="400" y="136" />
+<use href="#D" x="360" y="176" />
+<use href="#D" x="410" y="86" />
+<use href="#D" x="310" y="186" />
+<use href="#D" x="410" y="96" />
+<use href="#D" x="320" y="186" />
+<use href="#D" x="410" y="106" />
+<use href="#D" x="330" y="186" />
+<use href="#D" x="410" y="116" />
+<use href="#D" x="340" y="186" />
+<use href="#D" x="410" y="126" />
+<use href="#D" x="350" y="186" />
+<use href="#D" x="410" y="136" />
+<use href="#D" x="360" y="186" />
+<use href="#D" x="420" y="86" />
+<use href="#D" x="310" y="196" />
+<use href="#D" x="420" y="96" />
+<use href="#D" x="320" y="196" />
+<use href="#D" x="420" y="106" />
+<use href="#D" x="330" y="196" />
+<use href="#D" x="420" y="116" />
+<use href="#D" x="340" y="196" />
+<use href="#D" x="420" y="126" />
+<use href="#D" x="350" y="196" />
+<use href="#D" x="420" y="136" />
+<use href="#D" x="360" y="196" />
+<use href="#D" x="430" y="86" />
+<use href="#D" x="310" y="206" />
+<use href="#D" x="430" y="96" />
+<use href="#D" x="320" y="206" />
+<use href="#D" x="430" y="106" />
+<use href="#D" x="330" y="206" />
+<use href="#D" x="430" y="116" />
+<use href="#D" x="340" y="206" />
+<use href="#D" x="430" y="126" />
+<use href="#D" x="350" y="206" />
+<use href="#D" x="430" y="136" />
+<use href="#D" x="360" y="206" />
+<use href="#D" x="380" y="166" />
+<use href="#D" x="380" y="176" />
+<use href="#D" x="380" y="186" />
+<use href="#D" x="380" y="196" />
+<use href="#D" x="380" y="206" />
+<use href="#D" x="390" y="156" />
+<use href="#D" x="390" y="166" />
+<use href="#D" x="390" y="176" />
+<use href="#D" x="390" y="186" />
+<use href="#D" x="390" y="196" />
+<use href="#D" x="390" y="206" />
+<use href="#D" x="390" y="216" />
+<use href="#D" x="390" y="226" />
+<use href="#D" x="390" y="236" />
+<use href="#D" x="390" y="246" />
+<use href="#D" x="390" y="256" />
+<use href="#D" x="390" y="266" />
+<use href="#D" x="390" y="276" />
+<use href="#D" x="390" y="286" />
+<use href="#D" x="400" y="156" />
+<use href="#D" x="400" y="166" />
+<use href="#D" x="400" y="176" />
+<use href="#D" x="400" y="186" />
+<use href="#D" x="400" y="196" />
+<use href="#D" x="400" y="206" />
+<use href="#D" x="400" y="216" />
+<use href="#D" x="400" y="226" />
+<use href="#D" x="400" y="236" />
+<use href="#D" x="400" y="246" />
+<use href="#D" x="400" y="256" />
+<use href="#D" x="400" y="266" />
+<use href="#D" x="400" y="276" />
+<use href="#D" x="400" y="286" />
+<use href="#D" x="410" y="156" />
+<use href="#D" x="410" y="166" />
+<use href="#D" x="410" y="176" />
+<use href="#D" x="410" y="186" />
+<use href="#D" x="410" y="196" />
+<use href="#D" x="410" y="206" />
+<use href="#D" x="410" y="216" />
+<use href="#D" x="410" y="226" />
+<use href="#D" x="410" y="236" />
+<use href="#D" x="410" y="246" />
+<use href="#D" x="410" y="256" />
+<use href="#D" x="410" y="266" />
+<use href="#D" x="410" y="276" />
+<use href="#D" x="410" y="286" />
+<use href="#D" x="420" y="156" />
+<use href="#D" x="420" y="166" />
+<use href="#D" x="420" y="176" />
+<use href="#D" x="420" y="186" />
+<use href="#D" x="420" y="196" />
+<use href="#D" x="420" y="206" />
+<use href="#D" x="420" y="216" />
+<use href="#D" x="420" y="226" />
+<use href="#D" x="420" y="236" />
+<use href="#D" x="420" y="246" />
+<use href="#D" x="420" y="256" />
+<use href="#D" x="420" y="266" />
+<use href="#D" x="420" y="276" />
+<use href="#D" x="420" y="286" />
+<use href="#D" x="430" y="156" />
+<use href="#D" x="430" y="166" />
+<use href="#D" x="430" y="176" />
+<use href="#D" x="430" y="186" />
+<use href="#D" x="430" y="196" />
+<use href="#D" x="430" y="206" />
+<use href="#D" x="430" y="216" />
+<use href="#D" x="430" y="226" />
+<use href="#D" x="430" y="236" />
+<use href="#D" x="430" y="246" />
+<use href="#D" x="430" y="256" />
+<use href="#D" x="430" y="266" />
+<use href="#D" x="430" y="276" />
+<use href="#D" x="430" y="286" />
+<use href="#D" x="440" y="166" />
+<use href="#D" x="440" y="176" />
+<use href="#D" x="440" y="186" />
+<use href="#D" x="440" y="196" />
+<use href="#D" x="440" y="206" />
+<use href="#D" x="440" y="216" />
+<use href="#D" x="440" y="226" />
+<use href="#D" x="440" y="236" />
+<use href="#D" x="440" y="246" />
+<use href="#D" x="440" y="256" />
+<use href="#D" x="440" y="266" />
+<use href="#D" x="440" y="276" />
+<use href="#D" x="440" y="286" />
+<use href="#D" x="450" y="166" />
+<use href="#D" x="450" y="176" />
+<use href="#D" x="450" y="186" />
+<use href="#D" x="450" y="196" />
+<use href="#D" x="450" y="206" />
+<use href="#D" x="450" y="216" />
+<use href="#D" x="450" y="226" />
+<use href="#D" x="450" y="236" />
+<use href="#D" x="450" y="246" />
+<use href="#D" x="450" y="256" />
+<use href="#D" x="450" y="266" />
+<use href="#D" x="450" y="276" />
+<use href="#D" x="450" y="286" />
+<use href="#D" x="460" y="166" />
+<use href="#D" x="460" y="176" />
+<use href="#D" x="460" y="186" />
+<use href="#D" x="460" y="196" />
+<use href="#D" x="460" y="206" />
+<use href="#D" x="460" y="216" />
+<use href="#D" x="460" y="226" />
+<use href="#D" x="460" y="236" />
+<use href="#D" x="460" y="246" />
+<use href="#D" x="460" y="256" />
+<use href="#D" x="460" y="266" />
+<use href="#D" x="460" y="276" />
+<use href="#D" x="460" y="286" />
+<use href="#D" x="470" y="166" />
+<use href="#D" x="470" y="176" />
+<use href="#D" x="470" y="186" />
+<use href="#D" x="470" y="196" />
+<use href="#D" x="470" y="206" />
+<use href="#D" x="470" y="216" />
+<use href="#D" x="470" y="226" />
+<use href="#D" x="470" y="236" />
+<use href="#D" x="470" y="246" />
+<use href="#D" x="470" y="256" />
+<use href="#D" x="470" y="266" />
+<use href="#D" x="470" y="276" />
+<use href="#D" x="470" y="286" />
+<use href="#D" x="480" y="166" />
+<use href="#D" x="480" y="176" />
+<use href="#D" x="480" y="186" />
+<use href="#D" x="480" y="196" />
+<use href="#D" x="480" y="206" />
+<use href="#D" x="480" y="216" />
+<use href="#D" x="480" y="226" />
+<use href="#D" x="480" y="236" />
+<use href="#D" x="480" y="246" />
+<use href="#D" x="480" y="256" />
+<use href="#D" x="480" y="266" />
+<use href="#D" x="480" y="276" />
+<use href="#D" x="480" y="286" />
+<use href="#D" x="490" y="166" />
+<use href="#D" x="490" y="176" />
+<use href="#D" x="490" y="186" />
+<use href="#D" x="490" y="196" />
+<use href="#D" x="490" y="206" />
+<use href="#D" x="490" y="216" />
+<use href="#D" x="490" y="226" />
+<use href="#D" x="490" y="236" />
+<use href="#D" x="490" y="246" />
+<use href="#D" x="490" y="256" />
+<use href="#D" x="490" y="266" />
+<use href="#D" x="490" y="276" />
+<use href="#D" x="490" y="286" />
+<use href="#D" x="500" y="166" />
+<use href="#D" x="500" y="176" />
+<use href="#D" x="500" y="186" />
+<use href="#D" x="500" y="196" />
+<use href="#D" x="500" y="206" />
+<use href="#D" x="500" y="216" />
+<use href="#D" x="500" y="226" />
+<use href="#D" x="500" y="236" />
+<use href="#D" x="500" y="246" />
+<use href="#D" x="500" y="256" />
+<use href="#D" x="500" y="266" />
+<use href="#D" x="500" y="276" />
+<use href="#D" x="500" y="286" />
+<use href="#D" x="510" y="166" />
+<use href="#D" x="510" y="176" />
+<use href="#D" x="510" y="186" />
+<use href="#D" x="510" y="196" />
+<use href="#D" x="510" y="206" />
+<use href="#D" x="510" y="216" />
+<use href="#D" x="510" y="226" />
+<use href="#D" x="510" y="236" />
+<use href="#D" x="510" y="246" />
+<use href="#D" x="510" y="256" />
+<use href="#D" x="510" y="266" />
+<use href="#D" x="510" y="276" />
+<use href="#D" x="510" y="286" />
+</g><!-- end of Group id=Data_21 -->
+
+
+<g id="Guides_21">
+<line x1="310" y1="66" x2="310" y2="296" stroke-width="0.9" stroke="#333" />
+<line x1="290" y1="86" x2="520" y2="86" stroke-width="0.9" stroke="#333" />
+<line x1="380" y1="66" x2="380" y2="296" stroke-width="0.9" stroke="#333" />
+<line x1="290" y1="156" x2="520" y2="156" stroke-width="0.9" stroke="#333" />
+<line x1="450" y1="66" x2="450" y2="296" stroke-width="0.9" stroke="#333" />
+<line x1="290" y1="226" x2="520" y2="226" stroke-width="0.9" stroke="#333" />
+<line x1="520" y1="66" x2="520" y2="296" stroke-width="0.9" stroke="#333" />
+<line x1="290" y1="296" x2="520" y2="296" stroke-width="0.9" stroke="#333" />
+</g><!-- end of Group id=Guides_21 -->
+
+
+<g id="Position_21">
+<use href="#P7" x="310" y="86" />
+<use href="#P7" x="450" y="86" />
+<use href="#P7" x="310" y="226" />
+<use href="#P5" x="320" y="96" />
+<use href="#P5" x="460" y="96" />
+<use href="#P5" x="320" y="236" />
+<use href="#P3" x="330" y="106" />
+<use href="#P3" x="470" y="106" />
+<use href="#P3" x="330" y="246" />
+</g><!-- end of Group id=Position_21 -->
+
+
+<g id="QrNotes_21">
+<rect x="324" y="28" width="162" height="30" fill="#fff" stroke="#000" stroke-width="3.0" rx="15.0" />
+<text x="330" y="48" font-size="15.0" fill="#333">⚿</text>
+<rect x="290" y="324" width="230" height="36" fill="#fff" stroke="#000" stroke-width="3.0" rx="10" />
+<text x="296" y="344" font-size="15.0" fill="#333">✽</text>
+<text x="324" y="308" font-size="10" fill="#000">Never scan this image into a device</text>
+<text x="340" y="319" font-size="10" fill="#000">that connects to the internet.</text>
+</g><!-- end of Group id=QrNotes_21 -->
+
+</g><!-- end of Group id=QRCode_21 -->
+
+</svg>

@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="100%" height="100%" overflow="scroll" viewBox="0 0 620 438">
+  <defs>
+    <filter id="blur"><feGaussianBlur in="SourceGraphic" stdDeviation="1" /></filter>
+    <rect id="P7" width="70" height="70" stroke-width="0" fill="#000" />
+    <rect id="P5" width="50" height="50" stroke-width="0" fill="#fff" />
+    <rect id="P3" width="30" height="30" stroke-width="0" fill="#000" />
+    <rect id="A5" width="50" height="50" stroke-width="0" fill="#000" />
+    <rect id="A3" width="30" height="30" stroke-width="0" fill="#fff" />
+    <rect id="A1" width="10" height="10" stroke-width="0" fill="#000" />
+
+    <!-- User has a choice: dots for a punch? or grid for a marker? or both? -->
+    <g id="D">
+    <rect width="10" height="10" stroke-width="0.4" stroke="#888" fill="#fff" />
+    <!--<circle cx="5" cy="5" r="1" fill="#ccc" />-->
+    </g>
+
+    <!-- User has a choice: timing as circles? or as blocks? or no timing markers? -->
+    <!--<rect id="T" width="10" height="10" stroke-width="0" fill="#000" />-->
+    <!--<circle id="T" cx="5" cy="5" r="4" fill="#000" filter="url(#blur)" />-->
+
+  </defs>
+
+<g id="Mnemonic_24">
+<rect x="0" y="0" width="310" height="438" fill="#fff" stroke="#000" stroke-width="0.5" rx="10" />
+
+<g id="Words_24">
+<text x="31" y="94" font-size="17.5" fill="#000">1.</text>
+<line x1="50.9" y1="94" x2="142.6" y2="94" stroke-width="0.9" stroke="#333" />
+<text x="167" y="94" font-size="17.5" fill="#000">13.</text>
+<line x1="198.3" y1="94" x2="290" y2="94" stroke-width="0.9" stroke="#333" />
+<text x="31" y="113" font-size="17.5" fill="#000">2.</text>
+<line x1="50.9" y1="113.2" x2="142.6" y2="113.2" stroke-width="0.9" stroke="#333" />
+<text x="167" y="113" font-size="17.5" fill="#000">14.</text>
+<line x1="198.3" y1="113.2" x2="290" y2="113.2" stroke-width="0.9" stroke="#333" />
+<text x="31" y="132" font-size="17.5" fill="#000">3.</text>
+<line x1="50.9" y1="132.5" x2="142.6" y2="132.5" stroke-width="0.9" stroke="#333" />
+<text x="167" y="132" font-size="17.5" fill="#000">15.</text>
+<line x1="198.3" y1="132.5" x2="290" y2="132.5" stroke-width="0.9" stroke="#333" />
+<text x="31" y="152" font-size="17.5" fill="#000">4.</text>
+<line x1="50.9" y1="151.7" x2="142.6" y2="151.7" stroke-width="0.9" stroke="#333" />
+<text x="167" y="152" font-size="17.5" fill="#000">16.</text>
+<line x1="198.3" y1="151.7" x2="290" y2="151.7" stroke-width="0.9" stroke="#333" />
+<text x="31" y="190" font-size="17.5" fill="#000">5.</text>
+<line x1="50.9" y1="190.2" x2="142.6" y2="190.2" stroke-width="0.9" stroke="#333" />
+<text x="167" y="190" font-size="17.5" fill="#000">17.</text>
+<line x1="198.3" y1="190.2" x2="290" y2="190.2" stroke-width="0.9" stroke="#333" />
+<text x="31" y="209" font-size="17.5" fill="#000">6.</text>
+<line x1="50.9" y1="209.4" x2="142.6" y2="209.4" stroke-width="0.9" stroke="#333" />
+<text x="167" y="209" font-size="17.5" fill="#000">18.</text>
+<line x1="198.3" y1="209.4" x2="290" y2="209.4" stroke-width="0.9" stroke="#333" />
+<text x="31" y="229" font-size="17.5" fill="#000">7.</text>
+<line x1="50.9" y1="228.6" x2="142.6" y2="228.6" stroke-width="0.9" stroke="#333" />
+<text x="167" y="229" font-size="17.5" fill="#000">19.</text>
+<line x1="198.3" y1="228.6" x2="290" y2="228.6" stroke-width="0.9" stroke="#333" />
+<text x="31" y="248" font-size="17.5" fill="#000">8.</text>
+<line x1="50.9" y1="247.8" x2="142.6" y2="247.8" stroke-width="0.9" stroke="#333" />
+<text x="167" y="248" font-size="17.5" fill="#000">20.</text>
+<line x1="198.3" y1="247.8" x2="290" y2="247.8" stroke-width="0.9" stroke="#333" />
+<text x="31" y="286" font-size="17.5" fill="#000">9.</text>
+<line x1="50.9" y1="286.3" x2="142.6" y2="286.3" stroke-width="0.9" stroke="#333" />
+<text x="167" y="286" font-size="17.5" fill="#000">21.</text>
+<line x1="198.3" y1="286.3" x2="290" y2="286.3" stroke-width="0.9" stroke="#333" />
+<text x="20" y="306" font-size="17.5" fill="#000">10.</text>
+<line x1="50.9" y1="305.5" x2="142.6" y2="305.5" stroke-width="0.9" stroke="#333" />
+<text x="167" y="306" font-size="17.5" fill="#000">22.</text>
+<line x1="198.3" y1="305.5" x2="290" y2="305.5" stroke-width="0.9" stroke="#333" />
+<text x="20" y="325" font-size="17.5" fill="#000">11.</text>
+<line x1="50.9" y1="324.8" x2="142.6" y2="324.8" stroke-width="0.9" stroke="#333" />
+<text x="167" y="325" font-size="17.5" fill="#000">23.</text>
+<line x1="198.3" y1="324.8" x2="290" y2="324.8" stroke-width="0.9" stroke="#333" />
+<text x="20" y="344" font-size="17.5" fill="#000">12.</text>
+<line x1="50.9" y1="344.0" x2="142.6" y2="344.0" stroke-width="0.9" stroke="#333" />
+<text x="167" y="344" font-size="17.5" fill="#000">24.</text>
+<line x1="198.3" y1="344.0" x2="290" y2="344.0" stroke-width="0.9" stroke="#333" />
+</g><!-- end of Group id=Words_24 -->
+
+
+<g id="MnNotes_24">
+<rect x="62" y="29" width="186" height="30" fill="#fff" stroke="#000" stroke-width="3.0" rx="15.0" />
+<text x="69" y="49" font-size="17.5" fill="#333">⚿</text>
+<rect x="20" y="374" width="270" height="42" fill="#fff" stroke="#000" stroke-width="3.0" rx="10" />
+<text x="27" y="394" font-size="17.5" fill="#333">✽</text>
+<text x="62" y="358" font-size="11.5" fill="#000">Never enter these words into a device</text>
+<text x="87" y="370" font-size="11.5" fill="#000">that connects to the internet.</text>
+</g><!-- end of Group id=MnNotes_24 -->
+
+</g><!-- end of Group id=Mnemonic_24 -->
+
+<g id="QRCode_25">
+<rect x="310" y="0" width="310" height="438" fill="#fff" stroke="#000" stroke-width="0.5" rx="10" />
+
+<g id="Quiet_25">
+<use href="#D" x="350" y="164" />
+<use href="#D" x="420" y="94" />
+<use href="#D" x="350" y="264" />
+<use href="#D" x="520" y="94" />
+<use href="#D" x="590" y="164" />
+<use href="#D" x="420" y="334" />
+<use href="#D" x="360" y="164" />
+<use href="#D" x="420" y="104" />
+<use href="#D" x="360" y="264" />
+<use href="#D" x="520" y="104" />
+<use href="#D" x="580" y="164" />
+<use href="#D" x="420" y="324" />
+<use href="#D" x="370" y="164" />
+<use href="#D" x="420" y="114" />
+<use href="#D" x="370" y="264" />
+<use href="#D" x="520" y="114" />
+<use href="#D" x="570" y="164" />
+<use href="#D" x="420" y="314" />
+<use href="#D" x="380" y="164" />
+<use href="#D" x="420" y="124" />
+<use href="#D" x="380" y="264" />
+<use href="#D" x="520" y="124" />
+<use href="#D" x="560" y="164" />
+<use href="#D" x="420" y="304" />
+<use href="#D" x="390" y="164" />
+<use href="#D" x="420" y="134" />
+<use href="#D" x="390" y="264" />
+<use href="#D" x="520" y="134" />
+<use href="#D" x="550" y="164" />
+<use href="#D" x="420" y="294" />
+<use href="#D" x="400" y="164" />
+<use href="#D" x="420" y="144" />
+<use href="#D" x="400" y="264" />
+<use href="#D" x="520" y="144" />
+<use href="#D" x="540" y="164" />
+<use href="#D" x="420" y="284" />
+<use href="#D" x="410" y="164" />
+<use href="#D" x="420" y="154" />
+<use href="#D" x="410" y="264" />
+<use href="#D" x="520" y="154" />
+<use href="#D" x="530" y="164" />
+<use href="#D" x="420" y="274" />
+<use href="#D" x="420" y="164" />
+<use href="#D" x="520" y="164" />
+<use href="#D" x="420" y="264" />
+<use href="#D" x="440" y="154" />
+<use href="#D" x="410" y="184" />
+<use href="#D" x="460" y="154" />
+<use href="#D" x="410" y="204" />
+<use href="#D" x="480" y="154" />
+<use href="#D" x="410" y="224" />
+<use href="#D" x="500" y="154" />
+<use href="#D" x="410" y="244" />
+</g><!-- end of Group id=Quiet_25 -->
+
+
+<g id="Timing_25">
+<use href="#T" x="430" y="154" />
+<use href="#T" x="410" y="174" />
+<use href="#T" x="450" y="154" />
+<use href="#T" x="410" y="194" />
+<use href="#T" x="470" y="154" />
+<use href="#T" x="410" y="214" />
+<use href="#T" x="490" y="154" />
+<use href="#T" x="410" y="234" />
+<use href="#T" x="510" y="154" />
+<use href="#T" x="410" y="254" />
+</g><!-- end of Group id=Timing_25 -->
+
+
+<g id="Headers_25">
+<text x="370" y="84" font-size="17.5" fill="#000">1</text>
+<text x="330" y="124" font-size="17.5" fill="#000">A</text>
+<text x="420" y="84" font-size="17.5" fill="#000">2</text>
+<text x="330" y="174" font-size="17.5" fill="#000">B</text>
+<text x="470" y="84" font-size="17.5" fill="#000">3</text>
+<text x="330" y="224" font-size="17.5" fill="#000">C</text>
+<text x="520" y="84" font-size="17.5" fill="#000">4</text>
+<text x="330" y="274" font-size="17.5" fill="#000">D</text>
+<text x="570" y="84" font-size="17.5" fill="#000">5</text>
+<text x="330" y="324" font-size="17.5" fill="#000">E</text>
+</g><!-- end of Group id=Headers_25 -->
+
+
+<g id="Data_25">
+<use href="#D" x="430" y="94" />
+<use href="#D" x="350" y="174" />
+<use href="#D" x="430" y="104" />
+<use href="#D" x="360" y="174" />
+<use href="#D" x="430" y="114" />
+<use href="#D" x="370" y="174" />
+<use href="#D" x="430" y="124" />
+<use href="#D" x="380" y="174" />
+<use href="#D" x="430" y="134" />
+<use href="#D" x="390" y="174" />
+<use href="#D" x="430" y="144" />
+<use href="#D" x="400" y="174" />
+<use href="#D" x="440" y="94" />
+<use href="#D" x="350" y="184" />
+<use href="#D" x="440" y="104" />
+<use href="#D" x="360" y="184" />
+<use href="#D" x="440" y="114" />
+<use href="#D" x="370" y="184" />
+<use href="#D" x="440" y="124" />
+<use href="#D" x="380" y="184" />
+<use href="#D" x="440" y="134" />
+<use href="#D" x="390" y="184" />
+<use href="#D" x="440" y="144" />
+<use href="#D" x="400" y="184" />
+<use href="#D" x="450" y="94" />
+<use href="#D" x="350" y="194" />
+<use href="#D" x="450" y="104" />
+<use href="#D" x="360" y="194" />
+<use href="#D" x="450" y="114" />
+<use href="#D" x="370" y="194" />
+<use href="#D" x="450" y="124" />
+<use href="#D" x="380" y="194" />
+<use href="#D" x="450" y="134" />
+<use href="#D" x="390" y="194" />
+<use href="#D" x="450" y="144" />
+<use href="#D" x="400" y="194" />
+<use href="#D" x="460" y="94" />
+<use href="#D" x="350" y="204" />
+<use href="#D" x="460" y="104" />
+<use href="#D" x="360" y="204" />
+<use href="#D" x="460" y="114" />
+<use href="#D" x="370" y="204" />
+<use href="#D" x="460" y="124" />
+<use href="#D" x="380" y="204" />
+<use href="#D" x="460" y="134" />
+<use href="#D" x="390" y="204" />
+<use href="#D" x="460" y="144" />
+<use href="#D" x="400" y="204" />
+<use href="#D" x="470" y="94" />
+<use href="#D" x="350" y="214" />
+<use href="#D" x="470" y="104" />
+<use href="#D" x="360" y="214" />
+<use href="#D" x="470" y="114" />
+<use href="#D" x="370" y="214" />
+<use href="#D" x="470" y="124" />
+<use href="#D" x="380" y="214" />
+<use href="#D" x="470" y="134" />
+<use href="#D" x="390" y="214" />
+<use href="#D" x="470" y="144" />
+<use href="#D" x="400" y="214" />
+<use href="#D" x="480" y="94" />
+<use href="#D" x="350" y="224" />
+<use href="#D" x="480" y="104" />
+<use href="#D" x="360" y="224" />
+<use href="#D" x="480" y="114" />
+<use href="#D" x="370" y="224" />
+<use href="#D" x="480" y="124" />
+<use href="#D" x="380" y="224" />
+<use href="#D" x="480" y="134" />
+<use href="#D" x="390" y="224" />
+<use href="#D" x="480" y="144" />
+<use href="#D" x="400" y="224" />
+<use href="#D" x="490" y="94" />
+<use href="#D" x="350" y="234" />
+<use href="#D" x="490" y="104" />
+<use href="#D" x="360" y="234" />
+<use href="#D" x="490" y="114" />
+<use href="#D" x="370" y="234" />
+<use href="#D" x="490" y="124" />
+<use href="#D" x="380" y="234" />
+<use href="#D" x="490" y="134" />
+<use href="#D" x="390" y="234" />
+<use href="#D" x="490" y="144" />
+<use href="#D" x="400" y="234" />
+<use href="#D" x="500" y="94" />
+<use href="#D" x="350" y="244" />
+<use href="#D" x="500" y="104" />
+<use href="#D" x="360" y="244" />
+<use href="#D" x="500" y="114" />
+<use href="#D" x="370" y="244" />
+<use href="#D" x="500" y="124" />
+<use href="#D" x="380" y="244" />
+<use href="#D" x="500" y="134" />
+<use href="#D" x="390" y="244" />
+<use href="#D" x="500" y="144" />
+<use href="#D" x="400" y="244" />
+<use href="#D" x="510" y="94" />
+<use href="#D" x="350" y="254" />
+<use href="#D" x="510" y="104" />
+<use href="#D" x="360" y="254" />
+<use href="#D" x="510" y="114" />
+<use href="#D" x="370" y="254" />
+<use href="#D" x="510" y="124" />
+<use href="#D" x="380" y="254" />
+<use href="#D" x="510" y="134" />
+<use href="#D" x="390" y="254" />
+<use href="#D" x="510" y="144" />
+<use href="#D" x="400" y="254" />
+<use href="#D" x="420" y="174" />
+<use href="#D" x="420" y="184" />
+<use href="#D" x="420" y="194" />
+<use href="#D" x="420" y="204" />
+<use href="#D" x="420" y="214" />
+<use href="#D" x="420" y="224" />
+<use href="#D" x="420" y="234" />
+<use href="#D" x="420" y="244" />
+<use href="#D" x="420" y="254" />
+<use href="#D" x="430" y="164" />
+<use href="#D" x="430" y="174" />
+<use href="#D" x="430" y="184" />
+<use href="#D" x="430" y="194" />
+<use href="#D" x="430" y="204" />
+<use href="#D" x="430" y="214" />
+<use href="#D" x="430" y="224" />
+<use href="#D" x="430" y="234" />
+<use href="#D" x="430" y="244" />
+<use href="#D" x="430" y="254" />
+<use href="#D" x="430" y="264" />
+<use href="#D" x="430" y="274" />
+<use href="#D" x="430" y="284" />
+<use href="#D" x="430" y="294" />
+<use href="#D" x="430" y="304" />
+<use href="#D" x="430" y="314" />
+<use href="#D" x="430" y="324" />
+<use href="#D" x="430" y="334" />
+<use href="#D" x="440" y="164" />
+<use href="#D" x="440" y="174" />
+<use href="#D" x="440" y="184" />
+<use href="#D" x="440" y="194" />
+<use href="#D" x="440" y="204" />
+<use href="#D" x="440" y="214" />
+<use href="#D" x="440" y="224" />
+<use href="#D" x="440" y="234" />
+<use href="#D" x="440" y="244" />
+<use href="#D" x="440" y="254" />
+<use href="#D" x="440" y="264" />
+<use href="#D" x="440" y="274" />
+<use href="#D" x="440" y="284" />
+<use href="#D" x="440" y="294" />
+<use href="#D" x="440" y="304" />
+<use href="#D" x="440" y="314" />
+<use href="#D" x="440" y="324" />
+<use href="#D" x="440" y="334" />
+<use href="#D" x="450" y="164" />
+<use href="#D" x="450" y="174" />
+<use href="#D" x="450" y="184" />
+<use href="#D" x="450" y="194" />
+<use href="#D" x="450" y="204" />
+<use href="#D" x="450" y="214" />
+<use href="#D" x="450" y="224" />
+<use href="#D" x="450" y="234" />
+<use href="#D" x="450" y="244" />
+<use href="#D" x="450" y="254" />
+<use href="#D" x="450" y="264" />
+<use href="#D" x="450" y="274" />
+<use href="#D" x="450" y="284" />
+<use href="#D" x="450" y="294" />
+<use href="#D" x="450" y="304" />
+<use href="#D" x="450" y="314" />
+<use href="#D" x="450" y="324" />
+<use href="#D" x="450" y="334" />
+<use href="#D" x="460" y="164" />
+<use href="#D" x="460" y="174" />
+<use href="#D" x="460" y="184" />
+<use href="#D" x="460" y="194" />
+<use href="#D" x="460" y="204" />
+<use href="#D" x="460" y="214" />
+<use href="#D" x="460" y="224" />
+<use href="#D" x="460" y="234" />
+<use href="#D" x="460" y="244" />
+<use href="#D" x="460" y="254" />
+<use href="#D" x="460" y="264" />
+<use href="#D" x="460" y="274" />
+<use href="#D" x="460" y="284" />
+<use href="#D" x="460" y="294" />
+<use href="#D" x="460" y="304" />
+<use href="#D" x="460" y="314" />
+<use href="#D" x="460" y="324" />
+<use href="#D" x="460" y="334" />
+<use href="#D" x="470" y="164" />
+<use href="#D" x="470" y="174" />
+<use href="#D" x="470" y="184" />
+<use href="#D" x="470" y="194" />
+<use href="#D" x="470" y="204" />
+<use href="#D" x="470" y="214" />
+<use href="#D" x="470" y="224" />
+<use href="#D" x="470" y="234" />
+<use href="#D" x="470" y="244" />
+<use href="#D" x="470" y="254" />
+<use href="#D" x="470" y="264" />
+<use href="#D" x="470" y="274" />
+<use href="#D" x="470" y="284" />
+<use href="#D" x="470" y="294" />
+<use href="#D" x="470" y="304" />
+<use href="#D" x="470" y="314" />
+<use href="#D" x="470" y="324" />
+<use href="#D" x="470" y="334" />
+<use href="#D" x="480" y="164" />
+<use href="#D" x="480" y="174" />
+<use href="#D" x="480" y="184" />
+<use href="#D" x="480" y="194" />
+<use href="#D" x="480" y="204" />
+<use href="#D" x="480" y="214" />
+<use href="#D" x="480" y="224" />
+<use href="#D" x="480" y="234" />
+<use href="#D" x="480" y="244" />
+<use href="#D" x="480" y="254" />
+<use href="#D" x="480" y="264" />
+<use href="#D" x="480" y="274" />
+<use href="#D" x="480" y="284" />
+<use href="#D" x="480" y="294" />
+<use href="#D" x="480" y="304" />
+<use href="#D" x="480" y="314" />
+<use href="#D" x="480" y="324" />
+<use href="#D" x="480" y="334" />
+<use href="#D" x="490" y="164" />
+<use href="#D" x="490" y="174" />
+<use href="#D" x="490" y="184" />
+<use href="#D" x="490" y="194" />
+<use href="#D" x="490" y="204" />
+<use href="#D" x="490" y="214" />
+<use href="#D" x="490" y="224" />
+<use href="#D" x="490" y="234" />
+<use href="#D" x="490" y="244" />
+<use href="#D" x="490" y="254" />
+<use href="#D" x="490" y="264" />
+<use href="#D" x="490" y="274" />
+<use href="#D" x="490" y="284" />
+<use href="#D" x="490" y="294" />
+<use href="#D" x="490" y="304" />
+<use href="#D" x="490" y="314" />
+<use href="#D" x="490" y="324" />
+<use href="#D" x="490" y="334" />
+<use href="#D" x="500" y="164" />
+<use href="#D" x="500" y="174" />
+<use href="#D" x="500" y="184" />
+<use href="#D" x="500" y="194" />
+<use href="#D" x="500" y="204" />
+<use href="#D" x="500" y="214" />
+<use href="#D" x="500" y="224" />
+<use href="#D" x="500" y="234" />
+<use href="#D" x="500" y="244" />
+<use href="#D" x="500" y="254" />
+<use href="#D" x="500" y="264" />
+<use href="#D" x="500" y="274" />
+<use href="#D" x="500" y="284" />
+<use href="#D" x="500" y="294" />
+<use href="#D" x="500" y="304" />
+<use href="#D" x="500" y="314" />
+<use href="#D" x="500" y="324" />
+<use href="#D" x="500" y="334" />
+<use href="#D" x="510" y="164" />
+<use href="#D" x="510" y="174" />
+<use href="#D" x="510" y="184" />
+<use href="#D" x="510" y="194" />
+<use href="#D" x="510" y="204" />
+<use href="#D" x="510" y="214" />
+<use href="#D" x="510" y="224" />
+<use href="#D" x="510" y="234" />
+<use href="#D" x="510" y="244" />
+<use href="#D" x="510" y="304" />
+<use href="#D" x="510" y="314" />
+<use href="#D" x="510" y="324" />
+<use href="#D" x="510" y="334" />
+<use href="#D" x="520" y="174" />
+<use href="#D" x="520" y="184" />
+<use href="#D" x="520" y="194" />
+<use href="#D" x="520" y="204" />
+<use href="#D" x="520" y="214" />
+<use href="#D" x="520" y="224" />
+<use href="#D" x="520" y="234" />
+<use href="#D" x="520" y="244" />
+<use href="#D" x="520" y="304" />
+<use href="#D" x="520" y="314" />
+<use href="#D" x="520" y="324" />
+<use href="#D" x="520" y="334" />
+<use href="#D" x="530" y="174" />
+<use href="#D" x="530" y="184" />
+<use href="#D" x="530" y="194" />
+<use href="#D" x="530" y="204" />
+<use href="#D" x="530" y="214" />
+<use href="#D" x="530" y="224" />
+<use href="#D" x="530" y="234" />
+<use href="#D" x="530" y="244" />
+<use href="#D" x="530" y="304" />
+<use href="#D" x="530" y="314" />
+<use href="#D" x="530" y="324" />
+<use href="#D" x="530" y="334" />
+<use href="#D" x="540" y="174" />
+<use href="#D" x="540" y="184" />
+<use href="#D" x="540" y="194" />
+<use href="#D" x="540" y="204" />
+<use href="#D" x="540" y="214" />
+<use href="#D" x="540" y="224" />
+<use href="#D" x="540" y="234" />
+<use href="#D" x="540" y="244" />
+<use href="#D" x="540" y="304" />
+<use href="#D" x="540" y="314" />
+<use href="#D" x="540" y="324" />
+<use href="#D" x="540" y="334" />
+<use href="#D" x="550" y="174" />
+<use href="#D" x="550" y="184" />
+<use href="#D" x="550" y="194" />
+<use href="#D" x="550" y="204" />
+<use href="#D" x="550" y="214" />
+<use href="#D" x="550" y="224" />
+<use href="#D" x="550" y="234" />
+<use href="#D" x="550" y="244" />
+<use href="#D" x="550" y="304" />
+<use href="#D" x="550" y="314" />
+<use href="#D" x="550" y="324" />
+<use href="#D" x="550" y="334" />
+<use href="#D" x="560" y="174" />
+<use href="#D" x="560" y="184" />
+<use href="#D" x="560" y="194" />
+<use href="#D" x="560" y="204" />
+<use href="#D" x="560" y="214" />
+<use href="#D" x="560" y="224" />
+<use href="#D" x="560" y="234" />
+<use href="#D" x="560" y="244" />
+<use href="#D" x="560" y="254" />
+<use href="#D" x="560" y="264" />
+<use href="#D" x="560" y="274" />
+<use href="#D" x="560" y="284" />
+<use href="#D" x="560" y="294" />
+<use href="#D" x="560" y="304" />
+<use href="#D" x="560" y="314" />
+<use href="#D" x="560" y="324" />
+<use href="#D" x="560" y="334" />
+<use href="#D" x="570" y="174" />
+<use href="#D" x="570" y="184" />
+<use href="#D" x="570" y="194" />
+<use href="#D" x="570" y="204" />
+<use href="#D" x="570" y="214" />
+<use href="#D" x="570" y="224" />
+<use href="#D" x="570" y="234" />
+<use href="#D" x="570" y="244" />
+<use href="#D" x="570" y="254" />
+<use href="#D" x="570" y="264" />
+<use href="#D" x="570" y="274" />
+<use href="#D" x="570" y="284" />
+<use href="#D" x="570" y="294" />
+<use href="#D" x="570" y="304" />
+<use href="#D" x="570" y="314" />
+<use href="#D" x="570" y="324" />
+<use href="#D" x="570" y="334" />
+<use href="#D" x="580" y="174" />
+<use href="#D" x="580" y="184" />
+<use href="#D" x="580" y="194" />
+<use href="#D" x="580" y="204" />
+<use href="#D" x="580" y="214" />
+<use href="#D" x="580" y="224" />
+<use href="#D" x="580" y="234" />
+<use href="#D" x="580" y="244" />
+<use href="#D" x="580" y="254" />
+<use href="#D" x="580" y="264" />
+<use href="#D" x="580" y="274" />
+<use href="#D" x="580" y="284" />
+<use href="#D" x="580" y="294" />
+<use href="#D" x="580" y="304" />
+<use href="#D" x="580" y="314" />
+<use href="#D" x="580" y="324" />
+<use href="#D" x="580" y="334" />
+<use href="#D" x="590" y="174" />
+<use href="#D" x="590" y="184" />
+<use href="#D" x="590" y="194" />
+<use href="#D" x="590" y="204" />
+<use href="#D" x="590" y="214" />
+<use href="#D" x="590" y="224" />
+<use href="#D" x="590" y="234" />
+<use href="#D" x="590" y="244" />
+<use href="#D" x="590" y="254" />
+<use href="#D" x="590" y="264" />
+<use href="#D" x="590" y="274" />
+<use href="#D" x="590" y="284" />
+<use href="#D" x="590" y="294" />
+<use href="#D" x="590" y="304" />
+<use href="#D" x="590" y="314" />
+<use href="#D" x="590" y="324" />
+<use href="#D" x="590" y="334" />
+</g><!-- end of Group id=Data_25 -->
+
+
+<g id="Guides_25">
+<line x1="350" y1="74" x2="350" y2="344" stroke-width="0.9" stroke="#333" />
+<line x1="330" y1="94" x2="600" y2="94" stroke-width="0.9" stroke="#333" />
+<line x1="400" y1="74" x2="400" y2="344" stroke-width="0.9" stroke="#333" />
+<line x1="330" y1="144" x2="600" y2="144" stroke-width="0.9" stroke="#333" />
+<line x1="450" y1="74" x2="450" y2="344" stroke-width="0.9" stroke="#333" />
+<line x1="330" y1="194" x2="600" y2="194" stroke-width="0.9" stroke="#333" />
+<line x1="500" y1="74" x2="500" y2="344" stroke-width="0.9" stroke="#333" />
+<line x1="330" y1="244" x2="600" y2="244" stroke-width="0.9" stroke="#333" />
+<line x1="550" y1="74" x2="550" y2="344" stroke-width="0.9" stroke="#333" />
+<line x1="330" y1="294" x2="600" y2="294" stroke-width="0.9" stroke="#333" />
+<line x1="600" y1="74" x2="600" y2="344" stroke-width="0.9" stroke="#333" />
+<line x1="330" y1="344" x2="600" y2="344" stroke-width="0.9" stroke="#333" />
+</g><!-- end of Group id=Guides_25 -->
+
+
+<g id="Alignment_25">
+<use href="#A5" x="510" y="254" />
+<use href="#A3" x="520" y="264" />
+<use href="#A1" x="530" y="274" />
+</g><!-- end of Group id=Alignment_25 -->
+
+
+<g id="Position_25">
+<use href="#P7" x="350" y="94" />
+<use href="#P7" x="530" y="94" />
+<use href="#P7" x="350" y="274" />
+<use href="#P5" x="360" y="104" />
+<use href="#P5" x="540" y="104" />
+<use href="#P5" x="360" y="284" />
+<use href="#P3" x="370" y="114" />
+<use href="#P3" x="550" y="114" />
+<use href="#P3" x="370" y="294" />
+</g><!-- end of Group id=Position_25 -->
+
+
+<g id="QrNotes_25">
+<rect x="372" y="29" width="186" height="30" fill="#fff" stroke="#000" stroke-width="3.0" rx="15.0" />
+<text x="379" y="49" font-size="17.5" fill="#333">⚿</text>
+<rect x="330" y="374" width="270" height="42" fill="#fff" stroke="#000" stroke-width="3.0" rx="10" />
+<text x="337" y="394" font-size="17.5" fill="#333">✽</text>
+<text x="372" y="358" font-size="11.5" fill="#000">Never scan this image into a device</text>
+<text x="390" y="370" font-size="11.5" fill="#000">that connects to the internet.</text>
+</g><!-- end of Group id=QrNotes_25 -->
+
+</g><!-- end of Group id=QRCode_25 -->
+
+</svg>
